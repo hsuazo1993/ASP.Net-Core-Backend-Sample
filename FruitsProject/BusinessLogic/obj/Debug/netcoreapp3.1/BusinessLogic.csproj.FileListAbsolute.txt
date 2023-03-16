@@ -1,0 +1,12 @@
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\bin\Debug\netcoreapp3.1\DTOs.dll
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\bin\Debug\netcoreapp3.1\DTOs.pdb
+C:\Users\phara\Desktop\FruitsProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete

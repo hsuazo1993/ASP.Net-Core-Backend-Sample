@@ -1,0 +1,12 @@
+C:\Users\phara\Desktop\FruitsProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\phara\Desktop\FruitsProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\phara\Desktop\FruitsProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\phara\Desktop\FruitsProject\DataAccess\bin\Debug\netcoreapp3.1\DTOs.dll
+C:\Users\phara\Desktop\FruitsProject\DataAccess\bin\Debug\netcoreapp3.1\DTOs.pdb
+C:\Users\phara\Desktop\FruitsProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\phara\Desktop\FruitsProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\phara\Desktop\FruitsProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\phara\Desktop\FruitsProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\phara\Desktop\FruitsProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\phara\Desktop\FruitsProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\phara\Desktop\FruitsProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

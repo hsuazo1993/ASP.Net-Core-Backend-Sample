@@ -1,0 +1,9 @@
+C:\Users\phara\Desktop\FruitsProject\DTOs\bin\Debug\netcoreapp3.1\DTOs.deps.json
+C:\Users\phara\Desktop\FruitsProject\DTOs\bin\Debug\netcoreapp3.1\DTOs.dll
+C:\Users\phara\Desktop\FruitsProject\DTOs\bin\Debug\netcoreapp3.1\DTOs.pdb
+C:\Users\phara\Desktop\FruitsProject\DTOs\obj\Debug\netcoreapp3.1\DTOs.AssemblyInfoInputs.cache
+C:\Users\phara\Desktop\FruitsProject\DTOs\obj\Debug\netcoreapp3.1\DTOs.AssemblyInfo.cs
+C:\Users\phara\Desktop\FruitsProject\DTOs\obj\Debug\netcoreapp3.1\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\phara\Desktop\FruitsProject\DTOs\obj\Debug\netcoreapp3.1\DTOs.dll
+C:\Users\phara\Desktop\FruitsProject\DTOs\obj\Debug\netcoreapp3.1\DTOs.pdb
+C:\Users\phara\Desktop\FruitsProject\DTOs\obj\Debug\netcoreapp3.1\DTOs.csprojAssemblyReference.cache
